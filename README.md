@@ -1,7 +1,7 @@
 
 # Digital Marketing Home Page
 
-Fourth HTML+CSS project. 
+Fourth Project HTML+CSS project. 
 
 A simple Digital Marketing Home Page.
 
