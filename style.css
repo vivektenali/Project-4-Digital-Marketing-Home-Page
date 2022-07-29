@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@600&family=Ibarra+Real+Nova:ital,wght@1,500&family=Josefin+Sans:wght@200;400&family=Montserrat:ital,wght@0,500;1,400;1,500;1,600&family=Noto+Sans:wght@700&family=Oswald:wght@300;500&family=Work+Sans:wght@500&display=swap');
+
+
+
+
+
+
+.navbar-container{
+    display: flex;
+    margin-top: 10px;
+}
+
+
+img[src="./assets/Logo.png"]
+{
+    position: relative;
+    left: 20px;
+    padding: 10px 30px;
+}
+
+.list{
+    display: flex;
+}
+
+div ul li{
+    display: inline;
+    padding: 10px 30px;
+    margin-left: 20px;
+   
+}
+
+
+
+.nav-button{
+
+       height:50px;
+    width:130px;
+    border-radius: 10px;
+    background-color: #764AF1;
+   border: none;
+   color: white ;
+   font-weight: bold;
+   
+}
+
+span{
+    color: #764AF1;
+}
+
+.button-group{
+    position: absolute;
+    right: 30px;
+    top: 30px;
+}
+
+.banner-container{
+    display: flex;
+}
+
+.heading-text{
+  
+   font-size: 450%;
+   padding: 60px 90px;
+   
+}
+
+.description{
+    position: relative;
+    font-size: 150%;
+top: -80px;
+   padding: 0px 90px;
+}
+
+.btn{
+    position: relative;
+    left: 150px;
+    top: -70px;
+       height:50px;
+    width:230px;
+}
